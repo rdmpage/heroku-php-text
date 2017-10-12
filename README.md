@@ -18,3 +18,6 @@ heroku create
 git push heroku master
 ```
 
+Results in a web site. e.g. https://ancient-badlands-39381.herokuapp.com
+
+
